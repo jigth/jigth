@@ -4,7 +4,7 @@ Hi, I’m Daniel Ochoa Montes (@jigth in some social network profiles).  I’m i
 
 I like to develop solutions that are performant and have good user experience in mind, to make that possible I've been studying almost every day about software engineering, and development, with a focus in _backend development_.
 
-For my hobies I like to do physical exercise, movement and read about science, art, technology and human behaviour.
+My hobies are physical exercise, movement and reading about science, art, technology and human behaviour.
 
 
 # Languages and Technologies
