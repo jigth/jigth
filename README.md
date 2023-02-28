@@ -1,27 +1,58 @@
 # About Me:
 
-Hi, I’m Daniel Ochoa Montes (@jigth in some social network profiles).  I’m interested in backend development, software architecture and frontend development. 
+I’m Daniel Ochoa Montes (@jigth in some social network profiles).  I’m interested in backend development, software architecture and frontend development. 
 
-I like to develop solutions that are performant and have good user experience in mind, to make that possible I've been studying almost every day about software engineering, and development, with a focus in _backend development_.
+I like to develop solutions that are performant and have good user experience in mind.
 
-My hobies are physical exercise, movement and reading about science, art, technology and human behaviour.
+My hobbies are physical exercise, movement and reading about science, art, technology and human behaviour.
 
+# General Skills
 
-# Languages and Technologies
+* Backend Development
+* Frontend Development
+* CLI Tools (such as Tmux, Kubectl, git, GNU Core tools, Scripting...)
+* Databases
+* K8s knowledge and CLI practical skills
+* Unit Testing
+* Setting local Development Environments
+* Deploying Basic Applications to the cloud
+* GitHub Workflows using GitHub Actions
+* Blockchain Development (some theory and practice using Hyperledger Fabric with "HLF Operator")
 
-- 👨‍💻 The languages I like to use the most are **Javascript**, **Python** and **Java**, but I'm willing to learn new programming languages when necessary.
-- ⚡ For libraries and technologies I usually preffer the ones that are multiplatform, with good performance and decent developer experience. But most importantly, the ones that solve the problems on hand well.
-- 💾 Talking about databases I've used MySQL, Postgres, and a little bit of SQL-Server.
+# 💻 Programming Languages I've used for medium-sized projects
+
+* Golang
+* JavaScript / TypeScript
+* Python
+* Java
+
+# Technologies I've used or I'm familiar with:
+
+## Frontend frameworks / libraries
+
+* VueJS 3
+* Svelte
+* React
+
+## Blockchain Frameworks
+
+* Hyperledger Fabric (using HLF Operator 1.6)
+
+## Databases
+
+* MySQL
+* MariaDB
+* PostgreSQL
+* MongoDB
+* REDIS
 
 ## Javascript
 
-I've used some tools and frameworks of this language such as NodeJS, Express, React, VueJS, Mongoose, Eslint, Nodemon, Morgan. And I'm looking to learn some new frameworks and Typescript.
-
+I've used JavaScript mainly in the frontend context but also did some backend services development using ExpressJS for automating simple tasks.
 
 ## Python
 
 My focus on python until know have been using it as a scripting language for automating simple tasks and transform/analyze/visualize data using some of its great libraries. Pandas, Matplotlib and Sklearn.
-
 
 ## Cloud Computing
 
@@ -32,7 +63,7 @@ I also have some experience with command line usage in Unix environments to mana
 
 ## Container Technologies
 
-I've used Docker and I'm familiar with Docker Compose.
+I've used Docker and K8s to make custom images of apps and deploy them in simple contexts.
 
 
 # 📫 Contact Me:
