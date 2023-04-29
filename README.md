@@ -4,7 +4,7 @@ I’m Daniel Ochoa Montes (@jigth in some social network profiles).  I’m inter
 
 I like to develop solutions that are performant and have good user experience in mind.
 
-My hobbies are physical exercise, movement and reading about science, art, technology and human behaviour.
+My hobbies are physical exercise, music, dance, body movement and reading about science, art, technology and human behaviour.
 
 # General Skills
 
