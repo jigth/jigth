@@ -1,10 +1,8 @@
 # About Me:
 
-I’m Daniel Ochoa Montes (@jigth in some social network profiles).  I’m interested in backend development, software architecture and frontend development. 
+I’m Daniel Ochoa Montes (@jigth on some social network profiles). 
 
-I like to develop solutions that are performant and have good user experience in mind.
-
-My hobbies are physical exercise, music, dance, body movement and reading about science, art, technology and human behaviour.
+I am a Software Engineer with a degree in Systems Engineering, offering a comprehensive background in backend and frontend development, along with proficiency in cloud technologies like AWS. With three years of diverse experience, I have worked in environments ranging from large enterprises with a thousand employees to small startups and personal projects. I am deeply passionate about solving complex software challenges and continually learning and implementing effective, high-performance technologies and patterns to deliver exceptional results.
 
 # General Skills
 
